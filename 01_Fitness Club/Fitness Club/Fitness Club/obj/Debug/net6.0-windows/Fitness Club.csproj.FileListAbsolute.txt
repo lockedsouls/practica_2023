@@ -1,0 +1,24 @@
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness Club.csproj.AssemblyReference.cache
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness_Club.Form1.resources
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness Club.csproj.GenerateResource.cache
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness Club.AssemblyInfoInputs.cache
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness Club.AssemblyInfo.cs
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness Club.csproj.CoreCompileInputs.cache
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\Fitness Club.exe
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\Fitness Club.deps.json
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\Fitness Club.runtimeconfig.json
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\Fitness Club.dll
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\Fitness Club.pdb
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness Club.dll
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\refint\Fitness Club.dll
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness Club.pdb
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness Club.genruntimeconfig.cache
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\ref\Fitness Club.dll
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness Club.csproj.CopyComplete

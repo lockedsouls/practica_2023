@@ -26,7 +26,7 @@ namespace Fitness_Club
 
         private void subscriptions_Click(object sender, EventArgs e)
         {
-            SubscriptionsInterface f = new SubscriptionsInterface();
+            SubscriptionsInterface f = new SubscriptionsInterface(db, this.user_id);
             f.Show();
         }
     }

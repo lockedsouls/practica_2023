@@ -35,6 +35,7 @@ namespace Fitness_Club
                     f.Show();
                     this.Close();
                 }
+                q.Close();
             }
             else
             {

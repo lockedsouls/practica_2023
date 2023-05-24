@@ -63,6 +63,16 @@ namespace Fitness_Club.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _36y1arknqv701 {
+            get {
+                object obj = ResourceManager.GetObject("36y1arknqv701", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Screenshot_2022_08_15_193013 {
             get {
                 object obj = ResourceManager.GetObject("Screenshot 2022-08-15 193013", resourceCulture);

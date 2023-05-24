@@ -26,3 +26,6 @@ C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitn
 C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness_Club.ClientInterface.resources
 C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness_Club.SubscriptionsInterface.resources
 C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness_Club.Properties.Resources.resources
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness_Club.ClientReg.resources
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness_Club.AboutUs.resources
+C:\Users\blana\OneDrive\Desktop\Practica_anul3\01_Fitness Club\Fitness Club\Fitness Club\obj\Debug\net6.0-windows\Fitness_Club.JobApplication.resources

@@ -15,8 +15,17 @@ namespace Fitness_Club
 
         private void loginB_Click(object sender, EventArgs e)
         {
-            LoginForm f = new LoginForm(db);
-            f.Show();
+            DialogResult ans = MessageBox.Show("Do you wish to log in as a Client (Select NO if you wish to log in as an Employee)?", "QUESTION", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (ans == DialogResult.Yes)
+            {
+                LoginForm f = new LoginForm(db, false);
+                f.Show();
+            }else if (ans == DialogResult.No)
+            {
+                LoginForm f = new LoginForm(db, true);
+                f.Show();
+            };
+
             this.WindowState = FormWindowState.Minimized;
         }
 

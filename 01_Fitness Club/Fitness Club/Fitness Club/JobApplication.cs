@@ -57,14 +57,7 @@ namespace Fitness_Club
                 if (MessageBox.Show("Account successfully created. Do you wish to log in?", "SUCCESS", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
 
-                    /*SqlDataReader reader = new SqlCommand("select top 1 * from Clients order by id desc", this.db).ExecuteReader();
-                    while (reader.Read())
-                    {
-                        ClientInterface f = new ClientInterface(this.db, Int32.Parse(reader["id"].ToString()), reader["username"].ToString());
-                        f.Show();
-                    }*/
-
-                    //reader.Close();
+                    //here open Employee panel
                     this.db.Close();
                     this.Close();
                 }

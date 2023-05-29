@@ -25,9 +25,6 @@
     <Compile Update="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="LoginOption.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="SubscriptionsInterface.cs">
       <SubType>Form</SubType>
     </Compile>

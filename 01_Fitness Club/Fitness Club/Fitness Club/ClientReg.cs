@@ -25,7 +25,11 @@ namespace Fitness_Club
 
         private void button1_Click(object sender, EventArgs e)
         {
+            this.db.Open();
+            SqlDataReader q = new SqlCommand($"select * from Clients where username = '{username.Text}'", this.db).ExecuteReader();
             string error_msgs = "";
+            if (q.HasRows) error_msgs += "User already exists\n";
+            q.Close(); this.db.Close();
             if (username.Text.Length < 4) error_msgs += "Username should be longer than 4 characters\n";
             if (password.Text.Length < 6) error_msgs += "Password should be longer than 6 characters\n";
             if (password.Text != rpassword.Text) error_msgs += "Passwords don't match\n";

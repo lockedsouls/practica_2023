@@ -43,6 +43,13 @@ namespace Fitness_Club
 
             reader.Close();
 
+            reader = new SqlCommand($"select * from Personal where role_id = (select id from Roles where role = 'Manager') and Personal.id = {this.user_id}", this.db).ExecuteReader();
+            if (!reader.HasRows)
+            {
+                button2.Visible = false;
+                button2.Enabled = false;
+            }
+            reader.Close();
             this.db.Close();
         }
 
